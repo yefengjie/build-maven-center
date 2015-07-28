@@ -10,13 +10,16 @@ down load sonatype nexus oss:[sonatype nexus](http://www.sonatype.org/nexus/go/)
 move it to /user/local
 
 $ sudo cp nexus-x.xx.x-xx-bundle.tar.gz /usr/local
+
 $ cd /usr/local
+
 $ sudo tar xvzf nexus-x.xx.x-xx-bundle.tar.gz
+
 $ sudo ln -s nexus-x.xx.x-xx nexus
 
 #### step three
 
-add to path:$NEXUS_HOME   /usr/local/nexus
+add to path:  $NEXUS_HOME   /usr/local/nexus
 
 #### step four
 
