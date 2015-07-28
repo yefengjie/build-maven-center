@@ -32,3 +32,6 @@ attention: you must be root user
 watch here:[gradle-mvn-push](https://github.com/chrisbanes/gradle-mvn-push)
 
 
+
+links:[http://www.linuxidc.com/Linux/2015-06/118878.htm](http://www.linuxidc.com/Linux/2015-06/118878.htm)
+
